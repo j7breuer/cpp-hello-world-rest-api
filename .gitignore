@@ -34,3 +34,9 @@
 # intellij/vscode
 .idea
 .vs
+
+# Libraries
+lib/
+
+# Build
+build/
