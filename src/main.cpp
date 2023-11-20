@@ -1,6 +1,6 @@
 
 // Include crow and boost for basic functionality
-#include "../lib/crow/include/crow.h"
+#include "../lib/Crow/include/crow.h"
 
 // Start app
 int main() {

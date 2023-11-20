@@ -1,9 +1,9 @@
 # Set version and project name
 cmake_minimum_required(VERSION 3.10)
-project(MyHelloWorldApi)
+project(helloWorldApi)
 
 # Set C++ standard
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # Specify the path to Boost
